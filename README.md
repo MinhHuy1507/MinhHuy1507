@@ -28,8 +28,7 @@
 </div>
 <br>
     <p>
-        🔭 <b>I’m currently working on:</b> Data Warehouse & Big Data Processing<br>
-        🌱 <b>I’m currently learning:</b> Cloud Computing (AWS/GCP), CI/CD for Data<br>
+        🌱 <b>I’m currently learning:</b> Data Warehouse & Big Data Processing, Cloud Computing (AWS/GCP), CI/CD for Data<br>
         📫 <b>How to reach me:</b> <a href="mailto:ngominhhuy150705@gmail.com">ngominhhuy150705@gmail.com</a>
     </p>
 </div>
